@@ -1,4 +1,4 @@
-# MedicPro Limited
+# Medic Pro Limited
 
 ## 👋 Hi, we're @Medicprolimited
 
