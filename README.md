@@ -1,6 +1,6 @@
 # Medic Pro Limited
 
-## 👋 Hi, we're @Medicprolimited
+## 👋 Hi, we're @medicprolimited
 
 We are a specialized compliance and testing consultancy based in London with over 20 years of experience in regulation and product testing. Our expertise spans across multiple regulated industries including pharmaceuticals, medical devices, vape products, cosmetics, and cannabinoids.
 
